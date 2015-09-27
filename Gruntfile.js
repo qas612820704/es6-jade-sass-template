@@ -87,7 +87,7 @@ module.exports = function(grunt) {
         files: ['*.haml', '**/*.haml'],
         task: [],
       },
-      es6: {
+      js: {
         options: {
           cwd: 'src/js/',
         },
